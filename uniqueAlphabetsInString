@@ -11,5 +11,5 @@ function isUnique(str) {
 let string1 = "Hello"
 let string2 = "Shiva"
 console.log(isUnique(string1))
-console.log(isUnique(string1))
+console.log(isUnique(string2))
 
